@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "975853030236",
+    "project_id": "internship-assignments",
+    "storage_bucket": "internship-assignments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975853030236:android:d3dda6ddee353c0eb00f99",
+        "android_client_info": {
+          "package_name": "com.nagarro.Login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975853030236-btaljuhho6ahp8m82neub5iv01k6cbfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvWHY0blUz-btsLWOSHhAbU1X3318WGSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975853030236-btaljuhho6ahp8m82neub5iv01k6cbfo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975853030236-rpo6hkp28cgope8lf5svmjmujd4lnp98.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nagarro.login"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
